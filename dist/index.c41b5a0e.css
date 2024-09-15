@@ -1,0 +1,11 @@
+button img {
+  width: 30px;
+}
+
+section {
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */

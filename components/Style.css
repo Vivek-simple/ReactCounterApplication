@@ -1,0 +1,10 @@
+button img{
+    width: 30px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}

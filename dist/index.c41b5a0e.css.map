@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;AAIA","sources":["components/Style.css"],"sourcesContent":["button img{\r\n    width: 30px;\r\n}\r\n\r\nsection{\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    padding: 20px;\r\n}"],"names":[],"version":3,"file":"index.c41b5a0e.css.map","sourceRoot":"/__parcel_source_root/"}
